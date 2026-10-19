@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Hardhat build artifacts & cache
+artifacts/
+cache/
+typechain/
+typechain-types/
+
+# Frontend build artifacts
+dist/
+client/dist/
+
+# Environment variables & secrets (CRITICAL: Never commit .env files)
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+!server/.env.example
+!client/.env.example
+
+# Local storage server runtime uploads
+# Excludes uploaded testing/personal files while keeping the folder tracked
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Deprecated backup folders
+OLD/
+old/
+
+# System and logs
+*.local.json
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

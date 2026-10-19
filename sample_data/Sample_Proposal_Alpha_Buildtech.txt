@@ -1,0 +1,47 @@
+================================================================================
+FORMAL BID PROPOSAL & TECHNICAL DOSSIER
+Contractor: Alpha Buildtech & Infrastructure Supplies Ltd
+Tender Reference: TND-2026-ENG-001
+Tender Title: Procurement of High-Grade Structural Steel & Reinforced Concrete
+Date: August 2026
+================================================================================
+
+1. BIDDER IDENTIFICATION & ACCREDITATION
+--------------------------------------------------------------------------------
+Company Name:        Alpha Buildtech & Infrastructure Supplies Ltd
+Registration No:     RC-894210-GOV
+Tax ID:              TIN-99201488
+Corporate Address:   Plot 14, Industrial Layout, Sector 4, Capital Territory
+Accredited Wallet:   0x70997970C51812dc3A010C7d01b50e0d17dc79C8 (Hardhat Bidder #1)
+Quality Standards:   ISO 9001:2015 (Quality Management) & ISO 14001:2015 (Environmental)
+
+2. TECHNICAL SPECIFICATIONS & BILL OF QUANTITIES (BOQ)
+--------------------------------------------------------------------------------
+Item | Material Description & Standards              | Quantity    | Unit Price   | Total Amount
+-----+-----------------------------------------------+-------------+--------------+-------------
+01   | High-Yield Deformed Rebar (Grade 60, BS 4449) | 500 MT      | $950 / MT    | $475,000.00
+02   | Portland Cement (CEM II 42.5N, 50kg bags)     | 15,000 Bags | $11 / Bag    | $165,000.00
+03   | Structural Steel Beams (ASTM A992 / UB)       | 350 MT      | $1,200 / MT  | $420,000.00
+04   | Washed Crushed Granite Aggregates (20mm)      | 4,000 Tons  | $25 / Ton    | $100,000.00
+05   | Clean River Sand for Concrete Mortar          | 3,500 Tons  | $18 / Ton    | $63,000.00
+06   | Quality Assurance Testing & Mill Certificates | Lump Sum    | Lump Sum     | $27,000.00
+-----+-----------------------------------------------+-------------+--------------+-------------
+TOTAL FIXED BID PROPOSAL PRICE (USD):                                            $1,250,000.00
+
+3. DELIVERY TIMELINE & QUALITY ASSURANCE COMMITMENT
+--------------------------------------------------------------------------------
+* Mobilization & Initial Delivery: 14 Calendar Days from Official Contract Award.
+* Full Supply Delivery Completion: 45 Calendar Days.
+* Staging & Storage: Moisture-controlled covered warehouses provided on-site.
+* Quality Assurance: Mill test metallurgical certificates provided for each batch.
+* Price Validity Guarantee: Fixed for 90 calendar days from opening date.
+
+4. CONTRACTOR CRYPTOGRAPHIC BINDING
+--------------------------------------------------------------------------------
+I hereby certify that the specifications, pricing, and compliance representations
+contained in this proposal are binding, accurate, and submitted in accordance with
+the E-Tendering smart contract regulations.
+
+Authorized Signatory: Engr. Marcus Vance, Managing Director
+Client-Side Fingerprint: Computed via Keccak-256 before on-chain transmission.
+================================================================================
